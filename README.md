@@ -1,4 +1,4 @@
-# Dashi
+# Restaurant recommendation website
 
 •	Researched item-based method to provide restaurant recommendation
 
